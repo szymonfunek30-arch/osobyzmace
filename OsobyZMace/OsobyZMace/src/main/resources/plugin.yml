@@ -1,0 +1,9 @@
+name: OsobyZMace
+version: '1.0.0'
+main: pl.mace.osobyzmace.OsobyZMace
+api-version: '26.3'
+description: /osobyzmace podświetla osoby z maczugą w zasięgu do 100 klatek.
+commands:
+  osobyzmace:
+    description: Podświetla osoby z maczugą.
+    usage: /<command>
